@@ -10,3 +10,4 @@
 	Just do it
 
 ## Deployment
+	Deploy it to remote or local
